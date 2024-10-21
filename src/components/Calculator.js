@@ -51,6 +51,9 @@ function Calculator() {
                 ):(
                 <SunFill style={{fill: '#fff'}} size={20} /> )}</Button>
         </div>
+        <div className="title" style={{color: isDarkMode? '#fff':'#333'}}>
+            <h1>Simple Calculator</h1>
+        </div>
       <div className="box" style={{backgroundColor: isDarkMode? '#fff':'#333'}}>
         <div className="display">
             <input type="text" value={value} readOnly/>
