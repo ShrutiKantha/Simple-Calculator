@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ShrutiKantha/Simple-Calculator.git/static/css/main.15603e43.css",
-    "main.js": "/ShrutiKantha/Simple-Calculator.git/static/js/main.dd482f8e.js",
-    "static/js/453.d5195dcb.chunk.js": "/ShrutiKantha/Simple-Calculator.git/static/js/453.d5195dcb.chunk.js",
-    "index.html": "/ShrutiKantha/Simple-Calculator.git/index.html",
-    "main.15603e43.css.map": "/ShrutiKantha/Simple-Calculator.git/static/css/main.15603e43.css.map",
-    "main.dd482f8e.js.map": "/ShrutiKantha/Simple-Calculator.git/static/js/main.dd482f8e.js.map",
-    "453.d5195dcb.chunk.js.map": "/ShrutiKantha/Simple-Calculator.git/static/js/453.d5195dcb.chunk.js.map"
+    "main.css": "/Simple-Calculator/static/css/main.15603e43.css",
+    "main.js": "/Simple-Calculator/static/js/main.508580b5.js",
+    "static/js/453.d5195dcb.chunk.js": "/Simple-Calculator/static/js/453.d5195dcb.chunk.js",
+    "index.html": "/Simple-Calculator/index.html",
+    "main.15603e43.css.map": "/Simple-Calculator/static/css/main.15603e43.css.map",
+    "main.508580b5.js.map": "/Simple-Calculator/static/js/main.508580b5.js.map",
+    "453.d5195dcb.chunk.js.map": "/Simple-Calculator/static/js/453.d5195dcb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.15603e43.css",
-    "static/js/main.dd482f8e.js"
+    "static/js/main.508580b5.js"
   ]
 }
