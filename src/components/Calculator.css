@@ -1,0 +1,48 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+}
+
+.toggle button{
+    margin: 40px;
+    border: 2px solid #333;
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+}
+
+.box {
+    height: 500px;
+    width: 350px;
+    border: 2px solid black;
+    padding: 10px;
+}
+
+.display input {
+    height: 80px;
+    width: 320px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    background-color: rgb(93, 93, 93);
+    font-size: 50px;
+    cursor: pointer;
+    flex: 1;
+    color: white;
+}
+
+.last-col input {
+   width: 108px;  
+}
+
+input {
+    height: 70px;
+    width: 80px;
+    margin: 2px;
+    border-radius: 5px;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
